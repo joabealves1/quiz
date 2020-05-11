@@ -17,8 +17,8 @@ public class QuestionActivity extends AppCompatActivity {
     RadioButton rb1,rb2,rb3,rb4;
 
     String perguntas[] = {
-            "Quantos paises tem na America do sul?",
-            "Quantos municípios tem Alagoas?",
+            "Quantos países tem na América do Sul?",
+            "Quantos municípios tem o estado de Alagoas?",
             "Qual o menor estado do Brasil?",
             "Em que ano Alagoas foi emancipada?",
     };
